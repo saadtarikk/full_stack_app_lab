@@ -35,7 +35,7 @@ const BookingsContainer = () => {
         temp[indexToCheckIn].checkedIn = !temp[indexToCheckIn].checkedIn
         setBookings(temp)
 
-    }
+    } 
 
     return (
         <div>
